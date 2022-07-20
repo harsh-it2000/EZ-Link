@@ -1,15 +1,3 @@
-# Affiliate Link Marker
-
-- Stable tag: trunk
-- Requires at least: 5.4
-- Tested up to: 6.0
-- Requires PHP: 7.3
-- License: GPLv2 or later
-- License URI: http://www.gnu.org/licenses/gpl-2.0.html
-- Tags: affiliate, links, sponsored, nofollow, multisite
-- Contributors: goaroundagain
-- Donate link:
-
 Mark your Affiliate Links with a *, add `rel="nofollow sponsored noopener"` to affiliate links and attach a disclosure at the end of every post which contains at least one affiliate link.
 
 ## Description
