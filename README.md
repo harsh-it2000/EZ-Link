@@ -10,28 +10,6 @@ Works great with Multisites. If activated networkwide, you can manage your affil
 
 The following Affiliate Networks with the corresponding tracking domains are supported out of the box (but you can add your own or remove unused):
 
-- Amazon PartnerNet `amazon`
-- Webgains `track.webgains.com`
-- AWIN `awin1.com`
-- financeAds `financeads.net`
-- Performance Horizon/Partnerize `prf.hn`
-- Belboon `belboon.de`
-- Tradedoubler `tradedoubler.com`
-- Adcell `adcell.de`
-- TradeTracker `tc.tradetracker.net`
-- Daisycon `ds1.nl`
-- ShareASale `shareasale.com`
-- CJ.com `jdoqocy.com` `tkqlhce.com` `anrdoezrs.net` `dpbolvw.net`
-- FinanceQuality `l.neqty.net`
-- Target Circle `c.trackmytarget.com`
-- NetAffiliation `action.metaffiliation.com`
-- Selecdoo `work.selecdoo.com`
-- Viglink `viglink.com`
-- eBay Partner Network `rover.ebay.com`
-- Groupon Partner Network `t.groupon`
-- Saturn + Media Markt Private Network `pvn.mediamarkt.de` `pvn.saturn.de`
-- StackCommerce `stacksocial.com` `citizengoods.com` `skillwise.com` `joyus.com`
-
 ## Installation
 
 1. Upload the folder `affiliate-marker` to the `/wp-content/plugins/` directory
@@ -54,20 +32,3 @@ It only works with HTML `<a href="">` links, not with crazy JavaScript tracking 
 1. Add your own affiliate related domains or any part of an affiliate links that identifies your affiliate link and change the disclosure text<br>![Affiliate Link Marker Settings Page](https://raw.githubusercontent.com/goaround/affiliate-link-marker/master/.wordpress-org/screenshot-1.png)
 1. Every affiliate link is marked by a `*` next to the link text and at the end of post the disclosure will be attached<br>![Affiliate Link and Disclosure](https://raw.githubusercontent.com/goaround/affiliate-link-marker/master/.wordpress-org/screenshot-2.png)
 
-## Changelog
-
-### 1.0.7
-
-- Fixed Plugin Path
-
-### 1.0.6
-
-- Composer Slug changed
-
-### 1.0.4
-
-- Fixed some PHP compatibility issues
-
-### 1.0.0
-
-- First release
